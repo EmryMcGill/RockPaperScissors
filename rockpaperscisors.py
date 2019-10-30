@@ -13,7 +13,7 @@ userVal = input("Rock[R] Paper[P] Scisars[S]: ")
 
 oppval = random.choice(values)
 
-
+#testing
 
 userVal.lower()
 
